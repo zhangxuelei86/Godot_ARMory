@@ -20,7 +20,7 @@ curl -sS https://raw.githubusercontent.com/Gator-Boy11/Godot_ARMory/main/Godot_A
 ```
 on the device. The script will handle everything from there, so go ahead and get some sleep (it will probably take several hours to build everything) and come back to your brand new Godot build, fresh out of the ARMory!
 
-##Manual Building
+## Manual Building
 Want more control over how your Godot is built? Here is what you need to do.
 
 1. Install the necessary packages from apt (or your preferred package manager) and pip.  
